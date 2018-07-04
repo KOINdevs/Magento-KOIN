@@ -28,7 +28,7 @@ Secret Key: 50856FDA556747A7860C3295C25FEA26
 2. Localize as configurações da KOIN e ative o módulo;
 3. Insira as credenciais informadas acima, selecione o ambiente "Testes", configure o campos de CPF e Endereço e salve as alterações;
 
-**Pronto! Seu módulo está instalado e configurado!**
+**Pronto! O módulo Magento KOIN está instalado e configurado!**
 
 
 
